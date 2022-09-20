@@ -16,6 +16,7 @@ func scopeEx(){
 		i := true
 		fmt.Println(i)
 	}
+	fmt.Println("something")
 
 	fmt.Println(i)
 }
